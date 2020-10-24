@@ -40,3 +40,6 @@ searchPokemon('250')
 //     console.log(response.data)
 //     //data
 // }, 1000);
+
+
+//Express es ayuda para crear funciones en rutas

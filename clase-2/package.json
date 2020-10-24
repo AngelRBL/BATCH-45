@@ -1,0 +1,24 @@
+{
+  "name": "clase-2",
+  "version": "1.0.0",
+  "description": "clase 2 cinta negra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2\u001b[2~\u001b[2~\u001b[2~\u001b"
+  },
+  "author": "Angel Robles",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
